@@ -1,0 +1,5 @@
+jupyter
+pandas
+duckdb
+requests
+pyarrow

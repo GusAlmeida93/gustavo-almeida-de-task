@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "gustavo-almeida-de-task"
+version = "0.1.0"
+description = ""
+authors = ["Gustavo Almeida <gusalmeida93@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+pandas = "^2.2.2"
+duckdb = "^1.0.0"
+requests = "^2.32.3"
+pyarrow = "^17.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
